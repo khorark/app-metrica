@@ -1,6 +1,6 @@
 {
   "name": "@khorark/react-native-app-metrica",
-  "version": "1.7.0",
+  "version": "1.8.0",
   "description": "react-native-app-metrica",
   "main": "index.js",
   "scripts": {
