@@ -9,8 +9,8 @@
 import Foundation
 import YandexMobileMetrica
 
-@objc(AppMetrica)
-class AppMetrica: NSObject {
+@objc(RNAppMetrica)
+class RNAppMetrica: NSObject {
   private var count = 23;
   
   @objc

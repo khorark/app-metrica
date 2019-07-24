@@ -1,7 +1,7 @@
 
 #import "React/RCTBridgeModule.h"
 
-@interface RCT_EXTERN_MODULE(RNAppMetrica, AppMetrica, NSObject)
+@interface RCT_EXTERN_MODULE(RNAppMetrica, NSObject)
 
 RCT_EXTERN_METHOD(getCount: (RCTResponseSenderBlock)callback)
 
