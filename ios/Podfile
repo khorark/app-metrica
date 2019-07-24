@@ -6,5 +6,5 @@ platform :ios, '9.0'
 target 'Example' do
   pod 'Yoga', path: '../node_modules/react-native/ReactCommon/yoga/Yoga.podspec'
   pod 'React', path: '../node_modules/react-native'
-  pod 'YandexMobileMetrica', '3.7.1'
+  pod 'YandexMobileMetrica', path: '../../'
 end
