@@ -10,14 +10,14 @@ Pod::Spec.new do |s|
   s.license      = "MIT"
   # s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
   s.author             = { "author" => "author@domain.cn" }
-  s.platform     = :ios, "7.0"
-  s.source       = { :git => "https://github.com/author/RNAppMetrica.git", :tag => "master" }
+  s.platform     = :ios, "9.1"
+  s.source       = { :git => "https://github.com/khorark/RNAppMetrica.git", :tag => "master" }
   s.source_files  = "RNAppMetrica/**/*.{h,m}"
   s.requires_arc = true
 
 
   s.dependency "React"
-  #s.dependency "others"
+  s.dependency "YandexMobileMetrica", "3.7.1"
 
 end
 
