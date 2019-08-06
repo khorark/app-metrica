@@ -10,8 +10,8 @@ Pod::Spec.new do |s|
   s.license        = package['license']
   s.homepage       = package['homepage']
   s.platform     = :ios, "9.1"
-  s.source       = { :git => "https://github.com/khorark/RNAppMetrica.git", :tag => "master" }
-  s.source_files  = "RNAppMetrica/**/*.{h,m}"
+  s.source       = { :git => "https://github.com/khorark/rn-app-metrica", :tag => "master" }
+  s.source_files  = "RNAppMetrica/**/*.{h,m,swift}"
   s.requires_arc = true
 
 
