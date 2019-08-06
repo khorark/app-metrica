@@ -1,6 +1,6 @@
 {
   "name": "rn-app-metrica",
-  "version": "1.9.0",
+  "version": "1.9.5",
   "description": "Wrapper for iOS and Android library AppMetrica",
   "main": "index.js",
   "scripts": {
