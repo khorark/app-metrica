@@ -7,7 +7,7 @@
 
 ### Mostly automatic installation
 
-`$ react-native link rn-app-metrica-app-metrica`
+`$ react-native link rn-app-metrica`
 
 #### For iOS
 1. In XCode, in the project navigator, select your project. Removed `libRNAppMetrica.a` to your project's `Build Phases` ➜ `Link Binary With Libraries`
